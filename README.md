@@ -1,4 +1,4 @@
-# [Gla Frontend](https://app.galacticdao.com/)
+# [StandardDAO Frontend]
 This is the front-end repo for Gla that allows users be part of the future of Greece. 
 
 ##  🔧 Setting up Local Development
