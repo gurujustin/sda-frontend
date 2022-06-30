@@ -44,8 +44,3 @@ The files/folder structure are a  **WIP** and may contain some unused files. The
 ├── themes/       // Style sheets for dark vs light theme
 └── views/        // Individual Views
 ```
-
-## 🗣 Community
-
-* [Join our Discord](https://discord.me/gla) and ask how you can get involved with the DAO!
-
