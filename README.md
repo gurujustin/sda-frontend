@@ -10,7 +10,7 @@ Required:
 
 
 ```bash
-$ git clone https://github.com/Gla-DAO/GlaDAO.git
+$ git clone https://github.com/alphadev102/sda-frontend.git
 $ cd galacticdao
 
 # set up your environment variables
