@@ -11,7 +11,7 @@ Required:
 
 ```bash
 $ git clone https://github.com/alphadev102/sda-frontend.git
-$ cd galacticdao
+$ cd sda-frontend
 
 # set up your environment variables
 # read the comments in the .env files for what is required/optional
