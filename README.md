@@ -1,4 +1,5 @@
 # [StandardDAO Frontend]
+
 This is the front-end repo for StandardDAO that allows users be part of the future of Greece. 
 
 ##  🔧 Setting up Local Development
